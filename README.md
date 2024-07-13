@@ -1,6 +1,10 @@
-Java 17 Masterclass: Start Coding in 2024 1st exercise
+Java 17 Masterclass: Start Coding in 2024
 
-Positive, Negative or Zero Write a method called checkNumber with an int parameter named number.
+1st exercise
+
+Positive, Negative or Zero 
+
+Write a method called checkNumber with an int parameter named number.
 
 The method should not return any value, and it needs to print out:
 
